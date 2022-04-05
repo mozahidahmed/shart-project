@@ -1,0 +1,19 @@
+.home-cart{
+
+    border: 1px solid lightgray;
+    padding: 10px;
+    width: 300px;
+    box-shadow: 10px 5px lightgray;
+    margin-top:15px ;
+
+}
+
+.home-cart:hover{
+    box-shadow: 10px 5px rgb(245, 42, 83);
+}
+
+
+.home-cart img{
+    width: 100%;
+    
+}

@@ -1,0 +1,59 @@
+.allhome{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 20px;
+    border-bottom: 1px dotted rgb(245, 42, 83);
+   
+}
+
+.home-Photo img{
+    width: 75%;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+}
+
+
+.home-text{
+    font-weight: bold;
+    text-align: justify;
+    padding: 10px;
+    margin: 30px;
+   
+
+}
+
+
+.title{
+color: rgb(245, 42, 83);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+button{
+    padding: 10px 50px;
+   background-color: rgb(241, 43, 82);
+   font-size: 20px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   border-bottom-left-radius: 20px;
+   border-top-right-radius: 20px;
+   margin-top: 20px;
+  
+    
+}
+
+.home-revew-page{
+
+display: grid;
+grid-template-columns: repeat(3,1fr);
+
+
+align-items: center;
+
+}
+
+
+.Home-para-button{
+    
+}

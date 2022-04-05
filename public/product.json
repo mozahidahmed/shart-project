@@ -1,0 +1,56 @@
+[
+    {
+      "id": "MOZAHID1",
+      "name": "MOZAHiD",
+      "price": 420,
+      "ratings": 7,
+      "para":"hi guais.I  am today buty now itis very helpful",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ec81fbd781fe4aa3a8cead230019c192_9366/AEROREADY_Designed_2_Move_Feelready_Sport_Tee_Burgundy_H30268_21_model.jpg"
+  
+    },
+    {
+      "id": "MOZAHID2",
+      "name": "NAIMA",
+      "price": 430,
+      "ratings": 4,
+      "para":"hi guais.I  am today buty now itis very helpful",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ec81fbd781fe4aa3a8cead230019c192_9366/AEROREADY_Designed_2_Move_Feelready_Sport_Tee_Burgundy_H30268_21_model.jpg"
+  
+    },
+    {
+      "id": "TAHMINA",
+      "name": "RAPTI",
+      "price": 440,
+      "ratings": 9,
+      "para":"hi guais.I  am today buty now itis very helpful",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/de7b5dc9e5a341b9bf5aad570106ba06_9366/Adicolor_Classics_Trefoil_Tee_Burgundy_H06641_21_model.jpg"
+  
+    },
+    {
+      "id": "RAPTHI",
+      "name": "NIPA",
+      "price": 420,
+      "ratings": 2,
+      "para":"hi guais.I  am today buty now itis very helpful",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/de7b5dc9e5a341b9bf5aad570106ba06_9366/Adicolor_Classics_Trefoil_Tee_Burgundy_H06641_21_model.jpg"
+  
+    },
+    {
+      "id": "NIPA",
+      "name": "RONI",
+      "price": 4250,
+      "ratings": 3,
+      "para":"hi guais.I  am today buty now itis very helpful",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ec81fbd781fe4aa3a8cead230019c192_9366/AEROREADY_Designed_2_Move_Feelready_Sport_Tee_Burgundy_H30268_21_model.jpg"
+  
+    },
+    {
+      "id": "RONI",
+      "name": "DeVDAS",
+      "price": 4210,
+      "ratings": 7,
+      "para":"hi guais.I  am today buty now itis very helpful",
+      "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c6a321b7bb7243d28fe9ac71011393c7_9366/Own_the_Run_Long_Sleeve_Tee_Black_GJ9977_21_model.jpg"
+  
+    }
+]

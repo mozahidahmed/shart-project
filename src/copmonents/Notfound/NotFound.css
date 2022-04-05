@@ -1,0 +1,9 @@
+.h1{
+    font-size: 90px;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Not{
+    background-color: black;
+    padding: 100px;
+}

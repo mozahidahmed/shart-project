@@ -1,0 +1,16 @@
+.Allchart{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 30px;
+}
+
+
+.Chart1{
+    width: 100%;
+    margin: 40px;
+}
+
+.Chart2{
+    width: 100%;
+    margin: 40px;
+}
